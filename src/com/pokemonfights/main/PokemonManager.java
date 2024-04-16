@@ -81,7 +81,7 @@ public class PokemonManager {
 			System.out.println("¡" + pokemon.getName() + " ha alcanzado el nivel " + newLevel
 					+ " con una experiencia de " + newXp + "!");
 		}
-		return leveledUp; //
+		return leveledUp;
 
 	}
 
